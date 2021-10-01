@@ -198,7 +198,6 @@ input:hover[type="submit"]  {
     white-space: nowrap;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: ;/* 文字超過行數設定 */
     -webkit-box-orient: vertical;
     white-space: normal;
     }
