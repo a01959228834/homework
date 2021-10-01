@@ -14,7 +14,7 @@ h3,h4,p{
     font-weight: normal;
 }
 #main { 
-    background-image: url('../images/chris-lee-70l1tDAI6rM-unsplash.jpg') ;
+    background-image: url('../images/apex.jpg') ;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -110,9 +110,9 @@ input[type="text"]{
     padding:8px;
     font-weight: bold;
     background:#ccc;
-    border:0 none;   /* 邊框效果 */
-    -webkit-border-radius: 5px; /* 針對Google Safari 瀏覽器的圓角效果 */
-    cursor:pointer;  /* 滑鼠移到上面的游標效果 */
+    border:0 none;   /* 邊框 */
+    -webkit-border-radius: 5px; /* 針對瀏覽器的圓角效果 */
+    cursor:pointer;  /* 游標效果 */
     border-radius:5px;   /* 圓角 */
     -moz-box-sizing:border-box; /* 針對瀏覽器顯示大小不一修正 */
     -webkit-box-sizing:border-box;
@@ -125,9 +125,9 @@ input[type="password"]{
     padding:8px;
     font-weight: bold;
     background:#ccc;
-    border:0 none;   /* 邊框效果 */
-    -webkit-border-radius: 5px; /* 針對Google Safari 瀏覽器的圓角效果 */
-    cursor:pointer;  /* 滑鼠移到上面的游標效果 */
+    border:0 none;   /* 邊框 */
+    -webkit-border-radius: 5px; /* 針對瀏覽器的圓角效果 */
+    cursor:pointer;  /* 游標效果 */
     border-radius:5px;   /* 圓角 */
     -moz-box-sizing:border-box;/* 針對瀏覽器顯示大小不一修正 */
     -webkit-box-sizing:border-box;
@@ -142,8 +142,8 @@ input[type="submit"]{
     font-weight: bold;
     background:#ccc;
     border:0 none;   /* 邊框的效果 */
-    -webkit-border-radius: 5px; /* 針對Google Safari 瀏覽器的圓角效果 */
-    cursor:pointer;  /* 滑鼠移到上面的游標效果 */
+    -webkit-border-radius: 5px; /* 針對瀏覽器的圓角效果 */
+    cursor:pointer;  /* 游標效果 */
     border-radius:5px;   /* 圓角 */
     -moz-box-sizing:border-box;/* 針對瀏覽器顯示大小不一修正 */
     -webkit-box-sizing:border-box;
@@ -191,7 +191,7 @@ input:hover[type="submit"]  {
 .News1 a{
     color: #555555;
     margin: 0 0 10px 0;
-    text-decoration: underline; /* 超連結底線效果 */
+    text-decoration: underline; /* 超連結底線 */
 }
 .N1ellipsis { /* 文字超過隱藏 */
     overflow:hidden; 
@@ -217,7 +217,7 @@ input:hover[type="submit"]  {
     .News2 a{
         color: #555555;
         margin: 0 0 10px 0;
-        text-decoration: underline; /* 超連結底線效果 */
+        text-decoration: underline; /* 超連結底線 */
     }
     .N2ellipsis { /* 文字超過隱藏 */
         overflow:hidden; 
@@ -242,7 +242,7 @@ input:hover[type="submit"]  {
         .News3 a{
             color: #555555;
             margin: 0 0 10px 0;
-            text-decoration: underline; /* 超連結底線效果 */
+            text-decoration: underline; /* 超連結底線 */
         }
         .N3ellipsis { /* 文字超過隱藏 */
             overflow:hidden; 
@@ -267,7 +267,7 @@ input:hover[type="submit"]  {
             .News4 a{
                 color: #555555;
                 margin: 0 0 10px 0;
-                text-decoration: underline; /* 超連結底線效果 */
+                text-decoration: underline; /* 超連結底線 */
             }
             .N4ellipsis { /* 文字超過隱藏 */
                 overflow:hidden; 
@@ -292,7 +292,7 @@ input:hover[type="submit"]  {
                 .News5 a{
                  color: #555555;
                  margin: 0 0 10px 0;
-                 text-decoration: underline; /* 超連結底線效果 */
+                 text-decoration: underline; /* 超連結底線 */
              }
                 .N5ellipsis { /* 文字超過隱藏 */
                     overflow:hidden; 
@@ -307,7 +307,7 @@ input:hover[type="submit"]  {
                         color: #c03d3d;
                     }               
 
-/* 左邊區域結束 *//* 左邊區域結束 *//* 左邊區域結束 */
+/* left */
 
 #RightZone{
     margin: 20px 0px 0px 0px  ; 
